@@ -22,7 +22,7 @@
 
 ## 📝 Table of Contents
 
-- [Scripts](#scripts)
+- [About](#about)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
@@ -32,36 +32,30 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 Scripts <a name = "scripts"></a>
+## 🧐 About <a name = "about"></a>
 
-* <b>auto-package-installation-debian.sh</b> - This scripts install all the required packages that are listed in 'packages.txt or any custom package list text file'.
+This project solves the problem of installing packages and setting up environment on a new installed ubuntu based distro which takes lots of time and for somebody it might take much longer to research about different packages which are good or not. It includes many scripts which are responsible for insatlling packages, setting up environment variables, installing snap packages like IDEs etc, creating startup services for undervolting Intel i-series CPUs, performing some tweaks to improve overall performance.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your system for installing packages and performing some performance tweaks.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Download the [ubuntu-automation-scripts.zip](#)
+
+### Run the scripts
+
+First you should add the execute permission to the scripts.
 
 ```
-Give examples
+chmod +x auto-package-installation.sh
 ```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
+and then execute the script.
 
 ```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+sudo ./auto-package-installation.sh
 ```
 
 End with an example of getting some data out of the system or using it for a little demo.
