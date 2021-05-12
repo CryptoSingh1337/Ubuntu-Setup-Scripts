@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> This project contains all the scripts that will setup all the required packages and environment variables on any debian based distro. These scripts reduces the time which is taken in setup the distro.
+<p align="center"> This project contains all the scripts that will setup all the required packages and environment variables on any ubuntu based distro. These scripts reduces the time which is taken in setup the distro.
     <br> 
 </p>
 
@@ -34,7 +34,7 @@
 
 ## 🧐 Scripts <a name = "scripts"></a>
 
-* auto-package-installation-debian.sh - This scripts install all the required packages that are listed in 'packages.txt or any custom package list text file'.
+* <b>auto-package-installation-debian.sh</b> - This scripts install all the required packages that are listed in 'packages.txt or any custom package list text file'.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
