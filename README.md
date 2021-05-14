@@ -7,10 +7,10 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/status-active-success.svg)
-[![GitHub Issues](https://img.shields.io/github/issues/CryptoSingh1337/debian-automation-scripts)](https://github.com/CryptoSingh1337/debian-automation-scripts/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/CryptoSingh1337/debian-automation-scripts)](https://github.com/CryptoSingh1337/debian-automation-scripts/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+  <img src="https://img.shields.io/badge/status-active-success.svg" alt="status tag">
+  <a href="https://github.com/CryptoSingh1337/Ubuntu-Setup-Scripts/issues"><img src="https://img.shields.io/github/issues/CryptoSingh1337/Ubuntu-Setup-Scripts" alt="issue tag"></a>
+  <a href="https://github.com/CryptoSingh1337/Ubuntu-Setup-Scripts/pulls"><img src="https://img.shields.io/github/issues-pr/CryptoSingh1337/Ubuntu-Setup-Scripts" alt="pr tag"></a>
+  <a href="/LINCENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license tag"></a>
 
 </div>
 
